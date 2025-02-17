@@ -27,7 +27,6 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=spranjal3301&theme=holi&hide_border=false)<br/> -->
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titan-327&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titan-327&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
