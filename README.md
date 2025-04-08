@@ -29,7 +29,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=100&color=34F74C&vCenter=true&width=435&height=40&lines=+%F0%9F%93%8A+My+GitHub+Stats%3A)](https://git.io/typing-svg)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Titan-327&theme=holi&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titan-327&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Titan-327&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Titan-327&theme=radical&no-frame=false&no-bg=true&margin-w=4)
