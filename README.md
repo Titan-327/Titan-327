@@ -20,16 +20,19 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/harshit-singh-97b055265/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="https://leetcode.com/u/Titan_108/">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>
 </a>
+
 <a href="https://www.codechef.com/users/titan108">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="45"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"/>
 </a>
+
 <a href="https://www.geeksforgeeks.org/user/titan108/">
-  <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/>
 </a>
 </p>
 
@@ -48,6 +51,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titan-327&layout=compact&theme=tokyonight" height="150"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Titan-327&theme=radical&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Titan_108?theme=dark&font=Baloo&ext=heatmap" height="250"/>
 
 </div>
 
